@@ -1,6 +1,6 @@
 Hi internet friends, I'm Eric.
 
-I'm going to give this readme a little more substance later, but for now let's start with a few things about me and this github repo:
+I'm going to give this readme a little more substance later, but for now let's start with a few things about me and this github:
 
 * By day, I'm a software architect in the fintech space, focusing on MSSQL-driven data architecture.
 * By night, I'm working on broadening and modernizing my data engineering skillsets by way of a data science bootcamp at UC San Diego.  Most repos here are originally derived from coursework, and are largely designed in Python using Jupyter Lab.
